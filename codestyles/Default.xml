@@ -2,4 +2,9 @@
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>

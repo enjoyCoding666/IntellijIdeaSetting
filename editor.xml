@@ -4,5 +4,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_CARET_BLINKING" value="false" />
+    <option name="CARET_BLINKING_PERIOD" value="1500" />
   </component>
 </application>
